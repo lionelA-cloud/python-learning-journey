@@ -27,14 +27,12 @@ This repository documents my hands-on Python learning path — from foundational
 
 ## 🧩 Codefinity Modules Completed
 
-> These repositories are created automatically as I complete lessons on Codefinity.  
-> Each link will take you directly to the corresponding GitHub repo with my code examples.
+My Codefinity course work is pushed automatically to this repository:
 
-- [Codefinity: Python Basics](#) *(will auto-sync soon)*
-- [Codefinity: Control Flow & Functions](#)
-- [Codefinity: Data Structures](#)
-- [Codefinity: OOP Fundamentals](#)
-- [Codefinity: Automation Projects](#)
+[Codefinity – Introduction to Python](https://github.com/lionelA-cloud/codefinity-introduction-to-python)
+
+You’ll find lesson folders such as `variables_and_types/`, `getting_started/`, `conditional_statements/`, etc., which will be updated as I progress.
+
 
 ---
 
