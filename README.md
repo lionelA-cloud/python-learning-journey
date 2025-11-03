@@ -1,97 +1,69 @@
 # 🐍 Python Learning Journey
 
-Hi there 👋 I'm **Lionel**, an aspiring **AWS DevOps Engineer** currently mastering **Python** through **Codefinity** to strengthen my automation, scripting, and development skills.
-
-This repository documents my complete journey learning Python — from the fundamentals to building real-world projects that align with my cloud and DevOps goals.
-
----
-
-## 🎯 Why I’m Learning Python
-
-As I progress through my AWS and DevOps journey, I’ve realized that Python is an essential skill for:
-- Automating AWS workflows using **Boto3**
-- Writing scripts for **CI/CD pipelines**
-- Building small **APIs and backend utilities**
-- Exploring future paths in **AI & Machine Learning**
-
-This repo will serve as a roadmap and portfolio of my growth as I learn to code like an engineer.
+Hi there 👋 I'm **Lionel**, an aspiring **AWS DevOps Engineer** expanding my skills through **Python development** with **Codefinity**.  
+This repository documents my hands-on Python learning path — from foundational syntax to building automated scripts and cloud integrations.
 
 ---
 
-## 🧩 Current Phase
-
-- ✅ Completed: **Codefinity Python Basics** (syntax, loops, conditionals)
-- 🎯 Current: **Functions & Modules**
-- 🔜 Next: **OOP, APIs, and File Handling**
-- 💡 Future: Automation scripts for AWS & DevOps tasks
+## 🎯 Current Goal
+- Master Python fundamentals through **Codefinity**
+- Build a strong foundation in **software logic**, **automation**, and **problem-solving**
+- Prepare for future AWS DevOps projects that involve Python-based tools, such as **Boto3**, **Terraform**, and **CI/CD pipelines**
 
 ---
 
-## 🧠 Skills I’m Building
+## 🧭 Learning Roadmap
 
-- Python fundamentals (variables, lists, loops, conditionals)
-- Functions, classes, and modules
-- Working with APIs & JSON
-- File handling and automation
-- Scripting for AWS (Lambda, Boto3)
-- Git & GitHub version control
+| Phase | Focus Area | Description | Status |
+|:------|:------------|:-------------|:--------|
+| 1️⃣ | **Python Basics** | Syntax, Variables, Data Types, Input/Output | ✅ In Progress |
+| 2️⃣ | **Control Flow** | Conditionals, Loops, Functions | ⏳ Upcoming |
+| 3️⃣ | **Data Structures** | Lists, Tuples, Dictionaries, Sets | ⏳ Upcoming |
+| 4️⃣ | **OOP (Object-Oriented Programming)** | Classes, Inheritance, Encapsulation | ⏳ Upcoming |
+| 5️⃣ | **Modules & File Handling** | Imports, Packages, JSON, CSV | ⏳ Upcoming |
+| 6️⃣ | **Automation Projects** | Building scripts for AWS and DevOps workflows | ⏳ Future Phase |
 
 ---
 
-## 🗂️ Folder Structure
+## 🧩 Codefinity Modules Completed
 
-```bash
-python-learning-journey/
-│
-├── 01_basics/
-│   ├── variables.py
-│   ├── loops.py
-│   └── conditionals.py
-│
-├── 02_functions/
-│   ├── functions_intro.py
-│   ├── modules_demo.py
-│
-├── 03_oop/
-│   └── classes_intro.py
-│
-├── 04_projects/
-│   ├── mini_calculator/
-│   ├── weather_api_script/
-│   └── file_automation_tool/
-│
-└── README.md
+> These repositories are created automatically as I complete lessons on Codefinity.  
+> Each link will take you directly to the corresponding GitHub repo with my code examples.
 
-| Phase | Topic                       | Platform      | Status         |
-| :---- | :-------------------------- | :------------ | :------------- |
-| 1     | Python Basics               | Codefinity    | ✅ Complete     |
-| 2     | Functions & Loops           | Codefinity    | 🟡 In Progress |
-| 3     | Object-Oriented Programming | Codefinity    | ⏳ Pending      |
-| 4     | Working with APIs           | Codefinity    | ⏳ Pending      |
-| 5     | File Automation Projects    | Self Projects | ⏳ Pending      |
-| 6     | AWS Boto3 Scripting         | AWS Sandbox   | 🔜 Coming Soon |
+- [Codefinity: Python Basics](#) *(will auto-sync soon)*
+- [Codefinity: Control Flow & Functions](#)
+- [Codefinity: Data Structures](#)
+- [Codefinity: OOP Fundamentals](#)
+- [Codefinity: Automation Projects](#)
 
-| Category          | Tools                        |
-| ----------------- | ---------------------------- |
-| Language          | Python                       |
-| Cloud Integration | AWS Lambda, Boto3            |
-| Version Control   | Git, GitHub                  |
-| IDE               | VS Code                      |
-| Learning Platform | Codefinity                   |
-| Future Add-ons    | Docker, Jenkins (for DevOps) |
+---
 
-🌱 Next Steps
+## ⚙️ Tools & Technologies
 
-Complete Codefinity’s OOP and API modules
+- 🐍 **Python 3.x**
+- 🧠 **Codefinity Learning Platform**
+- 🐙 **GitHub Version Control**
+- ☁️ **AWS Integration (Planned)**
+- 🧰 **VS Code** for local practice
+- 🔄 **GitHub Actions (Future CI/CD Setup)**
 
-Build 2–3 mini projects to showcase on GitHub
+---
 
-Connect Python automation to AWS Lambda & S3
+## 📈 Long-Term Goal
+To combine **Python automation** with **AWS DevOps engineering**, enabling:
+- Infrastructure as Code (IaC)
+- Serverless scripting
+- Automated cloud deployments
+- Security and monitoring integrations
 
-Add project documentation and diagrams for recruiters
+---
 
-✨ About Me
+## 🧾 Certifications & Progress
+- ✅ AWS Cloud Practitioner (Completed)
+- 🧩 AWS Solutions Architect Associate (In Progress)
+- 🐍 Codefinity Python Developer (In Progress)
+- 🔐 Cisco: Introduction to Cybersecurity (Completed)
 
-I’m a career transitioner moving from Sales to Cloud & DevOps, currently building my technical foundation one step at a time.
+---
 
-I believe in learning by doing — every file, script, and project here represents my hands-on growth.
+## 🗓️ Started: **November 2025**
